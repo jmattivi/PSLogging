@@ -1,0 +1,11 @@
+PSTOPIC
+    about_PSLogging
+
+SHORT DESCRIPTION
+    PSLogging allows you to log status of tasks in a SQL database
+
+LONG DESCRIPTION
+    PSLogging allows you to log status of tasks in a SQL database
+
+DETAILED DESCRIPTION
+    Functions that will execute insert, update, and select queries from the logging table
