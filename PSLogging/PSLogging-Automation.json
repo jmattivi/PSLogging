@@ -1,0 +1,24 @@
+{
+    "ConnectionFields": [
+        {
+            "IsEncrypted": false,
+            "IsOptional": false,
+            "Name": "Server",
+            "TypeName": "System.String"
+        },
+        {
+            "IsEncrypted": false,
+            "IsOptional": false,
+            "Name": "Database",
+            "TypeName": "System.String"
+        },
+        {
+            "IsEncrypted": false,
+            "IsOptional": true,
+            "Name": "Port",
+            "TypeName": "System.String"
+        }
+    ],
+    "ConnectionTypeName": "SQLConnection",
+    "IntegrationModuleName": "PSLogging"
+}
